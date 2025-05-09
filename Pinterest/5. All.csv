@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,status
 MEDIUM,Count and Say,100.0,0.581829851754168,https://leetcode.com/problems/count-and-say,String
 HARD,Shortest Path in a Grid with Obstacles Elimination,91.6,0.4547263777441697,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
 HARD,Reconstruct Itinerary,88.9,0.43456952640611407,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
@@ -21,7 +21,7 @@ MEDIUM,Coin Change,56.2,0.4604632685740429,https://leetcode.com/problems/coin-ch
 HARD,Meeting Rooms III,56.2,0.43898245939794023,https://leetcode.com/problems/meeting-rooms-iii,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
 MEDIUM,Unique Paths II,56.2,0.42885413531408917,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
 HARD,Unique Paths III,56.2,0.8224266715248679,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
-MEDIUM,Minimize Result by Adding Parentheses to Expression,48.5,0.6735178307129491,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration"
+MEDIUM,Minimize Result by Adding Parentheses to Expression,48.5,0.6735178307129491,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration", done
 HARD,Bus Routes,48.5,0.4698178468038805,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
 MEDIUM,The Number of Weak Characters in the Game,48.5,0.4413584935833367,https://leetcode.com/problems/the-number-of-weak-characters-in-the-game,"Array, Stack, Greedy, Sorting, Monotonic Stack"
 HARD,Employee Free Time,48.5,0.7254861912796376,https://leetcode.com/problems/employee-free-time,"Array, Sorting, Heap (Priority Queue)"
